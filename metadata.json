@@ -1,0 +1,5 @@
+{
+  "name": "Gacha Resource Tracker",
+  "description": "A web application to track resources needed for characters and weapons in gacha games, including daily farmable materials.",
+  "requestFramePermissions": []
+}
